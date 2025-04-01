@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack projects using Gen Ai**
 
-- 💬 Ask me about **React, Javascript, Next.js**
+- 💬 Ask me about **Java, React, Javascript, Next.js**
 
 - 📫 How to reach me **tanu.sharma.prof@gmail.com**
 
